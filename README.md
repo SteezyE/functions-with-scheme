@@ -7,4 +7,4 @@
 | (num)eric (sq)uare (root)     | newton fixed-point | /                  |
 | (g)reatest (c)ommon (div)isor | euclidean          | O(log n)           |
   
-Note: All functions read from stdin.
+All functions read from stdin.
